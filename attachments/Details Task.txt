@@ -1,0 +1,17 @@
+Below are the task details:
+
+You'll need to build few screens for a market app. Designs of required screens are attached to this email.
+
+After the splash screen hides, first page of the app appears, which is a sliding introduction of three slides, when the three slides are passed, you navigate to the home page that list the categories, by clicking on a category you navigate to the category details page that list the products, and by clicking on a product you navigate to the product details page.
+
+Please use the following API endpoint:
+https://5bcce576cf2e850013874767.mockapi.io/task/categories
+
+Notes:
+Designs and layout of all screens are attached except the product details page, as no design is required for it, just display the title of the selected product on it.
+feel free to use any dummy images or text for the sliding introduction pages, app icon & splash screen.
+No functionality is required for cart, search, filter nor sort by, just build them in the UI as per the attached designs, but don't implement their functionality.
+
+You are requested to submit the task by Saturday 09:00 PM by pushing your Android project to a public git repository and email me with the URL of the repository.
+
+Please include a working APK file of the task with your project.

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="title_slide1">Mauris pharetra nisl eget</string>
+    <string name="desc_slide1">Lorem ipsum dolor sit amet,consectertur adipisoing elit, Cras necnunc urna Nunc consequat augue. Donec gravida luctus justo,eusagittis ipsum elementum aliquet.</string>
+    <string name="title_slide2">Aliquam erat volutpat</string>
+    <string name="title_slide3">Aresh bimarst delivery</string>
+    <string name="splash">Splash</string>
+    <string name="category_name">Category Name</string>
+    <string name="proin_vestibulum_eros_ipsum_in_aliquet_elit_interdum_et">Proin vestibulum eros ipsum, in aliquet elit interdum et.</string>
+    <string name="test">Test</string>
+    <string name="cart">Cart</string>
+    <string name="search">Search</string>
+    <string name="sort_by">Sort by</string>
+    <string name="filter">Filter</string>
+</resources>
